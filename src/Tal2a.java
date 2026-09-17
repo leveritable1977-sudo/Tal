@@ -1,7 +1,7 @@
 void main() {
     // 1. Skapa de två talen
-    int tal1 = 4;
-    int tal2 = 20;
+    int tal1 = 10;
+    int tal2 = 12;
 
     // 2. Plussa ihop dem och spara svaret i en ny variabel
     int summa = tal1 + tal2;
